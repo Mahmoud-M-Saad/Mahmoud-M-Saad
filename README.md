@@ -60,9 +60,13 @@
     <a href="https://www.behance.net/mrmm" target="blank"><img src="https://img.shields.io/static/v1?message=behance&logo=behance&label=&color=131418&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>  
  <a href="https://www.behance.net/behance.net/mrmm" target="blank"><img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>  
 </div>
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Mahmoud-M-Saad/Mahmoud-M-Saad/output/snake.svg" alt="Snake animation" />
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!--
 **Mahmoud-M-Saad/Mahmoud-M-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
