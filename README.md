@@ -37,7 +37,9 @@
     <img width="15" />
  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="render" width="40" height="40"/> </a>
      <img width="15" />
- </div>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/vercel/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="vercel" width="40" height="40"/> </a>
+     <img width="15" />
+</div>
   <h5 align="left">UI/UX & Graphic :</h5>  
   <div align="left" style="display: flex;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
